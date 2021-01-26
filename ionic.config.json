@@ -1,0 +1,7 @@
+{
+  "name": "test_meshupui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
